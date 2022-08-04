@@ -3,8 +3,8 @@ package mergeConflict;
 public class DemoMergeConflict {
 	public static void main(String[] args) {
 		
-		int num1= 10, num2=20;
-		System.out.println(a*b);
+		int firstNumber= 10, secondNumber=20;
+		System.out.println(firstNumber*secondNumber);
 		
 		
 	}
